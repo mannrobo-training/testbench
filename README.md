@@ -1,4 +1,4 @@
-# Project 2: VEX Testbench
+# Benchmark 2: VEX Testbench
 
 ![image](https://user-images.githubusercontent.com/10427974/36761686-35aa4d5c-1bee-11e8-9796-00e3ad7de188.png)
 
